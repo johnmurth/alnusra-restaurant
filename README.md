@@ -1,4 +1,4 @@
-# 🍽️ Al-Nusra Restaurant Management System
+# 🍽️ Al-Nusra Restaurant Digital Menu
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Firebase](https://img.shields.io/badge/Firebase-Ready-orange)](https://firebase.google.com)
